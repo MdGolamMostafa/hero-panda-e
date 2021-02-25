@@ -1,0 +1,19 @@
+.watch{
+background-color: yellow;
+}
+.bag{
+background-color:rebeccapurple;
+}
+.shoes{
+    background-color:green;
+}
+.watch, .bag, .shoes{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color:white;
+}
+.categories img{
+    height: 100px;
+}

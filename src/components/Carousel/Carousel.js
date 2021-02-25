@@ -21,7 +21,6 @@ const CarouselSet = () => {
                         <img src={tv} height = "100%" width="100%" alt=""/>
                         </div>
                     </div>
-                        
                     </Carousel.Item>
                     <Carousel.Item>
                     <div className="row p-5 align-items-center">
